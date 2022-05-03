@@ -2,7 +2,7 @@
  
 # Hi, I'm Carlos!
  
-Front end Developer focused on Node.js, React.JS and React Native. 
+FullStack Software Developer focused on Node.js, React.JS and React Native. 
 
 Lover of coding, finance, blockchain technology and the "cryptocurrencies world".
 
