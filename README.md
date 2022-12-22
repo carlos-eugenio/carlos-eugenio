@@ -2,9 +2,18 @@
  
 # Hi, I'm Carlos!
  
-FullStack Software Developer focused on Node.js, React.JS and React Native. 
+Fullstack software developer with experience using React and NodeJS as my main development stack.
 
-Lover of coding, finance, blockchain technology and the "cryptocurrencies world".
+- Work experience with HTML, CSS, JS, ES6, React and with development of SPAs.
+- Work experience with microservices and NodeJS.
+- Work experience with GraphQL, REST and MongoDB.
+- Work experience with integration and development of REST APIs.
+- Work experience with Git/Github.
+
+- Experience with React Native, Typescript, Jest, Docker and PostgreSQL.
+- I also have past work experience with the technologies cited above and with PHP, Joomla and MySQL.
+
+I am a creative, open-minded and results-driven professional and am always looking to expand my knowledge mainly through coding bootcamps and courses.
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
